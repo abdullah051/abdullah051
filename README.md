@@ -1,0 +1,3 @@
+- 👋 Hi, I’m abdullah
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
